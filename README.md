@@ -1,4 +1,6 @@
 # MATLAB-for-biologists
+[![DOI](https://zenodo.org/badge/159968081.svg)](https://zenodo.org/badge/latestdoi/159968081)
+
 An introduction to MATLAB for life scientists. 
 No prior experience with programming required. 
 Focus is on getting going quickly with examples from image analysis, then simulation of Brownian motion, and calculation of the mean-squared-displacement. 
